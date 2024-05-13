@@ -21,7 +21,7 @@ repository               : "IreneSalmaso/IreneSalmaso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/1714466255080.jpeg"
+  avatar           : "images/bio-photo.jpg"
   name             : "Irene Salmaso"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
